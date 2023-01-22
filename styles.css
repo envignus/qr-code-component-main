@@ -1,0 +1,16 @@
+html {
+    font-family: 'Outfit', sans-serif;
+}
+
+body p {
+    font-size: 15px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
