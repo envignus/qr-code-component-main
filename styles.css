@@ -14,3 +14,8 @@ body p {
     color: hsl(228, 45%, 44%); 
 }
 
+@media (max-width: 375px) {
+    body {
+        color: red;
+    }
+}
